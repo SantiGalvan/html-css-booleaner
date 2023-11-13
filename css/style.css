@@ -14,3 +14,26 @@ figure {
     padding: 50px 0;
     margin-left: 0;
 }
+
+/* Main */
+
+/* Section Article */
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+address {
+    font-style: normal;
+    font-size: 1.2rem;
+    color: #555;
+}
+
+a {
+    text-decoration: none;
+    color: skyblue;
+}
+
+img {
+    padding-top: 20px;
+}
