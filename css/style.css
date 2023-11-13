@@ -1,0 +1,16 @@
+div {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+/* Header */
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgba(78, 160, 255, 1);
+}
+
+figure {
+    max-width: 200px;
+    padding: 50px 0;
+    margin-left: 0;
+}
