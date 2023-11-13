@@ -1,4 +1,4 @@
-div {
+.container {
     max-width: 1080px;
     margin: 0 auto;
 }
@@ -36,4 +36,42 @@ a {
 
 img {
     padding-top: 20px;
+}
+
+.foto-description p {
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+.list ul {
+    padding: 0 18px;
+}
+
+/* Table */
+table {
+    border-spacing: 0;
+    text-align: left;
+    max-width: 1080px;
+}
+
+thead {
+    background-color: rgba(32, 169, 229, 1);
+    color: #fff;
+}
+
+td {
+    vertical-align: inherit;
+    width: 300px;
+}
+
+tbody {
+    background-color: rgba(177, 229, 242, 1);
+}
+
+.alternative {
+    background-color: #fff;
+}
+
+.special {
+    width: 600px;
 }
