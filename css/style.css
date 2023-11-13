@@ -9,7 +9,7 @@ header {
     background-color: rgba(78, 160, 255, 1);
 }
 
-figure {
+.logo {
     max-width: 200px;
     padding: 50px 0;
     margin-left: 0;
@@ -43,6 +43,8 @@ img {
     font-size: 0.8rem;
 }
 
+
+/* List */
 .list ul {
     padding: 0 18px;
 }
@@ -74,4 +76,27 @@ tbody {
 
 .special {
     width: 600px;
+}
+
+/* Extra */
+h2 {
+    color: rgba(128, 128, 161, 1);
+}
+
+.monitor {
+    background-image: url(/img/monitor.jpg);
+    width: 240px;
+    height: 150px;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+}
+
+.graph {
+    background-image: url(/img/graph.jpg);
+    width: 240px;
+    height: 150px;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
 }
